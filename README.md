@@ -33,6 +33,7 @@ A modern Android application built to monitor water conservation activities, rai
 4. Wait for Gradle sync to finish.
 5. Click Run to launch the app.
 
+To view thw app download the APK file.
 
 
 
