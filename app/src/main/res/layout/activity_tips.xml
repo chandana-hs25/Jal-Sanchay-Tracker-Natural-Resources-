@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textSize="20sp"
+        android:text="1. Clean rooftop regularly\n\n2. Install filter mesh\n\n3. Use covered tanks\n\n4. Reuse water for gardening\n\n5. Check pipe leakage regularly\n\n6. Harvest rainwater every monsoon\n\n7. Store excess water underground" />
+
+</ScrollView>
